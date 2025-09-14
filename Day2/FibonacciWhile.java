@@ -20,6 +20,7 @@ public class FibonacciWhile {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         FibonacciWhile fb = new FibonacciWhile();
+        sc.close();
 
         System.out.print("Enter number of terms: ");
         int n = sc.nextInt();

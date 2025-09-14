@@ -13,6 +13,7 @@ public class ForLoop {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         ForLoop fc = new ForLoop();
+        sc.close();
 
         int a = sc.nextInt();
         int result = fc.factorial(a);

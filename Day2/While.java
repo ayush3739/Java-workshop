@@ -20,6 +20,7 @@ public class While {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        sc.close();
         While fc = new While();
 
         System.out.print("Enter n: ");

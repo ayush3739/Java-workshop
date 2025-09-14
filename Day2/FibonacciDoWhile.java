@@ -22,7 +22,7 @@ public class FibonacciDoWhile {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         FibonacciDoWhile fb = new FibonacciDoWhile();
-
+sc.close();
         System.out.print("Enter number of terms: ");
         int n = sc.nextInt();
 
