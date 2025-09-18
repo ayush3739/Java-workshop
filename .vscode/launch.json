@@ -1,0 +1,274 @@
+
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Abstract_example",
+            "request": "launch",
+            "mainClass": "Assignments.Assignement4.Abstract_example",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "Nested_inter_class",
+            "request": "launch",
+            "mainClass": "Assignments.Assignement4.Nested_inter_class",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "nested_interface",
+            "request": "launch",
+            "mainClass": "Assignments.Assignement4.nested_interface",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Clothing_store",
+            "request": "launch",
+            "mainClass": "Assignments.Assignement4.Clothing_store",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "TotalAndAvgMarks",
+            "request": "launch",
+            "mainClass": "Assignments.Assignment1.TotalAndAvgMarks",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "Armstrong",
+            "request": "launch",
+            "mainClass": "Assignments.Assignment2.Armstrong",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Assignments.Assignment2.Calculator",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "PerfectNumber",
+            "request": "launch",
+            "mainClass": "Assignments.Assignment2.PerfectNumber",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "Assignments.Assignment2.palindrome",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "Bankdemo",
+            "request": "launch",
+            "mainClass": "Assignments.Assignment3.Bankdemo",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "Shapeclass",
+            "request": "launch",
+            "mainClass": "Assignments.Assignment3.Shapeclass",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "SuperKeywordDemo",
+            "request": "launch",
+            "mainClass": "Assignments.Assignment3.SuperKeywordDemo",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "Else_if",
+            "request": "launch",
+            "mainClass": "Day2.Else_if",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciDoWhile",
+            "request": "launch",
+            "mainClass": "Day2.FibonacciDoWhile",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciWhile",
+            "request": "launch",
+            "mainClass": "Day2.FibonacciWhile",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop",
+            "request": "launch",
+            "mainClass": "Day2.ForLoop",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "If_else",
+            "request": "launch",
+            "mainClass": "Day2.If_else",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "Day2.Switch",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "While",
+            "request": "launch",
+            "mainClass": "Day2.While",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "CopyConstructor",
+            "request": "launch",
+            "mainClass": "Day3.CopyConstructor",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance",
+            "request": "launch",
+            "mainClass": "Day3.Inheritance",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "M_overiding",
+            "request": "launch",
+            "mainClass": "Day3.M_overiding",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "Method_overloading",
+            "request": "launch",
+            "mainClass": "Day3.Method_overloading",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "Abstractclass",
+            "request": "launch",
+            "mainClass": "Day4.Abstractclass",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "GarbageCollection",
+            "request": "launch",
+            "mainClass": "Day4.GarbageCollection",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "Interface",
+            "request": "launch",
+            "mainClass": "Day4.Interface",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "Static",
+            "request": "launch",
+            "mainClass": "Day4.Static",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "getter_setter",
+            "request": "launch",
+            "mainClass": "Day4.getter_setter",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "staticvsnonStaticclass",
+            "request": "launch",
+            "mainClass": "Day4.staticvsnonStaticclass",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "Array_datatype",
+            "request": "launch",
+            "mainClass": "Day5.Array_datatype",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "Countoftwonum",
+            "request": "launch",
+            "mainClass": "Day5.Countoftwonum",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "Finalkeyword",
+            "request": "launch",
+            "mainClass": "Day5.Finalkeyword",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "JaggedArray",
+            "request": "launch",
+            "mainClass": "Day5.JaggedArray",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "LambdaNoparameter",
+            "request": "launch",
+            "mainClass": "Day5.LambdaNoparameter",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "Lambda_parameter",
+            "request": "launch",
+            "mainClass": "Day5.Lambda_parameter",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "MatrixMultiplication",
+            "request": "launch",
+            "mainClass": "Day5.MatrixMultiplication",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "Searching",
+            "request": "launch",
+            "mainClass": "Day5.Searching",
+            "projectName": "Java-workshop_69369a10"
+        }
+    ]
+}
