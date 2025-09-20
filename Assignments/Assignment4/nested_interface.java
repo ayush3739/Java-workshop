@@ -1,6 +1,6 @@
-package Assignments.Assignement4;
+package Assignments.Assignment4;
 
-import Assignments.Assignement4.Outer.inner;
+import Assignments.Assignment4.Outer.inner;
 
 interface Outer{
     void outmethod();

@@ -1,4 +1,4 @@
-package Assignments.Assignement4;
+package Assignments.Assignment4;
 // Abstract class
 abstract class Shape {
     abstract void numberOfSides();

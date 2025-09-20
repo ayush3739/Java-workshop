@@ -1,23 +1,23 @@
 package Assignments.Assignment3;
 
-class bank{
+class bank1{
     public double getrateOfinterest(){
         return 0.0;
     }
 }
-class SBI extends bank{
+class SBI extends bank1{
     public double getrateOfinterest(){
         return 5.6;
     }
 }
 
-class AXIS extends bank{
+class AXIS extends bank1{
     public double getrateOfinterest(){
         return 3.4;
     }
 }
 
-class ICICI extends bank{
+class ICICI extends bank1{
     public double getrateOfinterest(){
         return 7.8;
     }

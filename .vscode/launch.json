@@ -7,6 +7,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "linearsearch",
+            "request": "launch",
+            "mainClass": "Day5.linearsearch",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "bankoverriding",
+            "request": "launch",
+            "mainClass": "Assignments.Assignment3.bankoverriding",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "_tryandexcept",
+            "request": "launch",
+            "mainClass": "Day6._tryandexcept",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "calculation",
+            "request": "launch",
+            "mainClass": "Day6.calculation",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "Assertion",
+            "request": "launch",
+            "mainClass": "Day6.Assertion",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "MypackageExample",
+            "request": "launch",
+            "mainClass": "Day6.MypackageExample",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
             "name": "Abstract_example",
             "request": "launch",
             "mainClass": "Assignments.Assignement4.Abstract_example",
