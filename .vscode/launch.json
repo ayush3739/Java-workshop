@@ -7,6 +7,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Anagramcheck",
+            "request": "launch",
+            "mainClass": "Day7.Anagramcheck",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "duplicatecharacter",
+            "request": "launch",
+            "mainClass": "Day7.duplicatecharacter",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "Remove_vowels",
+            "request": "launch",
+            "mainClass": "Day7.Remove_vowels",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "CapitalLetter",
+            "request": "launch",
+            "mainClass": "Day7.CapitalLetter",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "localizationDemo",
+            "request": "launch",
+            "mainClass": "Day7.localizationDemo",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
+            "name": "UserdefinedException",
+            "request": "launch",
+            "mainClass": "Day7.UserdefinedException",
+            "projectName": "Java-workshop_69369a10"
+        },
+        {
+            "type": "java",
             "name": "linearsearch",
             "request": "launch",
             "mainClass": "Day5.linearsearch",
